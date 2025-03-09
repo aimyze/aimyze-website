@@ -40,7 +40,11 @@
           </li>
           <li><a href="pricing.php">Pricing</a></li>
 
+<<<<<<< HEAD
           <li><a href="soon.php">Insights & Trends</a></li>
+=======
+          <li><a href="insights.php">Insights & Trends</a></li>
+>>>>>>> 07f64c6 (Added RSS)
           <!--li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>
